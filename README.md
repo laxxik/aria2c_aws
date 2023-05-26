@@ -1,4 +1,4 @@
-Compilled statement<br/>
+<b>Compilled statement</b><br/>
 <br/>
 %cd "~/sagemaker-studiolab-notebooks/tmp"<br/>
 !wget "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.gz"<br/>
@@ -7,7 +7,8 @@ Compilled statement<br/>
 !./configure<br/>
 !make<br/>
 <br/>
-Use pattern<br/>
+<b>Use pattern</b><br/>
+<br/>
 wget "https://github.com/laxxik/aria2c_aws/archive/refs/heads/main.zip"<br/>
 !unzip main.zip<br/>
 %cd aria2c_aws-main<br/>
