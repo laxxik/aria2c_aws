@@ -1,4 +1,4 @@
-<b>Compilled statement</b><br/>
+<b>Statement used for compilation</b><br/>
 <br/>
 %cd "~/sagemaker-studiolab-notebooks/tmp"<br/>
 !wget "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.gz"<br/>
