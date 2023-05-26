@@ -1,15 +1,15 @@
-Compilled statement
-
-%cd "~/sagemaker-studiolab-notebooks/tmp"
-!wget "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.gz"
-!tar -xvzf "aria2-1.36.0.tar.gz"
-%cd "aria2-1.36.0"
-!./configure
-!make
-
-Use pattern
-wget "https://github.com/laxxik/aria2c_aws/archive/refs/heads/main.zip"
-!unzip main.zip
-%cd aria2c_aws-main
-!chmod 755 aria2c
-!./aria2c <options>
+Compilled statement<br/>
+<br/>
+%cd "~/sagemaker-studiolab-notebooks/tmp"<br/>
+!wget "https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0.tar.gz"<br/>
+!tar -xvzf "aria2-1.36.0.tar.gz"<br/>
+%cd "aria2-1.36.0"<br/>
+!./configure<br/>
+!make<br/>
+<br/>
+Use pattern<br/>
+wget "https://github.com/laxxik/aria2c_aws/archive/refs/heads/main.zip"<br/>
+!unzip main.zip<br/>
+%cd aria2c_aws-main<br/>
+!chmod 755 aria2c<br/>
+!./aria2c <options><br/>
